@@ -1,13 +1,12 @@
 
 # Olá, eu sou o Murilo!
-Desenvolvedor WEB há mais de 2 anos, hoje trabalho principalmente com PHP, JS e Bancos Relacionais. Sempre prezando pela performance, e manutenibilidade das minhas aplicações.
+Desenvolvedor WEB com mais de dois anos de experiência, hoje trabalho principalmente com PHP, VueJS, e bancos relacionais. Além destas tecnologias, tenho estudado NodeJS, ReactJS e bancos não relacionais. Também possúo conhecimentos em infraestrutura de redes, e já atuei com suporte técnico ao usuário. Sou bom em extrair o máximo dos recursos disponíveis, e estou sempre disposto a aprender algo novo.
 
 ## Ferramentas & Tecnologias
 
 ### Back-end e Infraestrutura
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
