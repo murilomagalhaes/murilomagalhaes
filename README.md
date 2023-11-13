@@ -1,6 +1,6 @@
 
 # Olá, eu sou o Murilo!
-Desenvolvedor WEB com mais de dois anos de experiência, hoje trabalho principalmente com PHP, VueJS, e bancos relacionais. Além destas tecnologias, tenho estudado NodeJS e bancos não relacionais. Também possúo conhecimentos em infraestrutura de redes, e já atuei com suporte técnico ao usuário. Sou bom em extrair o máximo dos recursos disponíveis, e estou sempre disposto a aprender algo novo.
+Com mais de 6 anos de experiência na área de tecnologia, e desenvolvedor WEB há três anos. Hoje trabalho principalmente com PHP, VueJS, e bancos relacionais. Também possuo conhecimentos em infraestrutura de redes, e já atuei com suporte técnico ao usuário em tecnologias diversas. Sou bom em extrair o máximo dos recursos disponíveis, e estou sempre disposto a aprender algo novo.
 
 ## Ferramentas & Tecnologias
 
