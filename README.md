@@ -1,6 +1,6 @@
 
 # Olá, eu sou o Murilo!
-Com mais de 6 anos de experiência em T.I, e desenvolvedor WEB há mais de 3 anos. Hoje trabalho principalmente com PHP/Laravel, VueJS e bancos de dados relacionais. Ao longo da minha carreira pude atuar em projetos de diversos tipos, o que também me permitiu explorar também outras tecnologias sempre que necessário. Estou sempre buscando ampliar meus conhecimentos técnicos.
+Com uma longa tragetória em T.I, e desenvolvedor WEB há mais de 4 anos. Hoje trabalho principalmente com PHP/Laravel, VueJS e bancos de dados relacionais. Ao longo da minha carreira pude atuar em projetos de diversos tipos, o que também me permitiu explorar outras tecnologias sempre que necessário. Estou sempre buscando ampliar meus conhecimentos técnicos.
 
 ## Ferramentas & Tecnologias
 
